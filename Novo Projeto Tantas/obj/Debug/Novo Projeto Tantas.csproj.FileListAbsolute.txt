@@ -1,0 +1,126 @@
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csprojResolveAssemblyReference.cache
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+c:\users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+C:\Users\li\documents\visual studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csprojResolveAssemblyReference.cache
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+C:\Users\Elisandra\Documents\Visual Studio 2012\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+E:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+E:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+E:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\MySql.Data.Fakes.fakesconfig
+E:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csprojFakesResolveAssemblyReference.cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\fakes.args
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\MySql.Data.Entity.EF5.dll
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.dll
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.fakesconfig
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.pdb
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\b\MySql.Data.Fakes.xml
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.ah
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.ch
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.cs
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.csproj
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.fakes
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.fakesconfig
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\f.snk
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\o\f.csprojResolveAssemblyReference.cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.dll
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Fakes\msd\o\MySql.Data.Fakes.pdb
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csprojResolveAssemblyReference.cache
+E:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Frm_ExcluirHistorico.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+J:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+J:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Frm_ExcluirHistorico.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+J:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+H:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+H:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+H:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+H:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\MySql.Data.Fakes.fakesconfig
+H:\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Frm_ExcluirHistorico.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+H:\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe.config
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Novo Projeto Tantas.pdb
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\MySql.Data.Fakes.fakesconfig
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.ResolveComReference.cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmCadastro.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEnviodeEmail.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmEsqueciMinhaSenha.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmExclusaoLembrete.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmLembrete.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.frmLogin.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.FrmMenu.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Frm_ExcluirHistorico.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo_Projeto_Tantas.Properties.Resources.resources
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.csproj.GenerateResource.Cache
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+C:\Users\Alberto\Documents\Visual Studio 2013\Projects\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
+C:\WebSites\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.exe
+C:\WebSites\Novo Projeto Tantas\Novo Projeto Tantas\obj\Debug\Novo Projeto Tantas.pdb
